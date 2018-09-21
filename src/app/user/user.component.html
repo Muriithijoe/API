@@ -1,3 +1,40 @@
-<p>
-  user works!
-</p>
+<div class="container">
+  <div class="jumbotron">
+    <h1>GITHUB SEARCH</h1>
+  </div>
+
+  <div class="row">
+    <div class="col-6-md">
+
+    <input type="text" #search>
+    <button (click)="performSearch(search)">search</button>
+    <br>
+
+    <input type="text" value="{{users.name}}">
+    <br>
+
+    <input type="text" value="{{users.bio}}">
+    <br>
+
+    <input type="text" value="{{users.email}}">
+    <br>
+
+    <input type="text" value="{{users.blog}}">
+    <br>
+
+    <input type="text" value="{{users.company}}">
+    <br>
+
+    <input type="text" value="{{users.location}}">
+
+    </div>
+
+    <div class="col-6-md">
+      <img src="{{users.avatar_url}}">
+    </div>
+
+
+
+</div>
+
+ </div> 
