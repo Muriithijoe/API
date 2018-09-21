@@ -8,7 +8,8 @@ import {Http, Response} from '@angular/http'
   styleUrls: ['./user.component.css']
 })
 export class UserComponent implements OnInit {
-  link= 'https://api.github.com/users/'
+  // link= 'https://api.github.com/users/'
+  link= 'https://api.github.com/repositories?q='
   access_token='?access_token=230ccfe64022875f67957b0581f05f04ca9bb2df'
   users=[];
 
