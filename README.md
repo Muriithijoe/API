@@ -1,5 +1,20 @@
 # API
 
+**Description**
+This is a site where you can find users of github and also repos
+
+**How to setup**
+
+~Once you recieve the link.Open your browser
+
+~Run the link in the browser.
+
+~If you have an internet connection you will be taken to the live site.
+
+**BDD**
+
+#Technologies used
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
 ## Development server
