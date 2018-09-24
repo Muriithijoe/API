@@ -1,9 +1,11 @@
 # API
 
-**Description**
+
+##**Description**
+
 This is a site where you can find users of github and also repos
 
-**How to setup**
+##**How to setup**
 
 ~Once you recieve the link.Open your browser
 
@@ -13,7 +15,7 @@ This is a site where you can find users of github and also repos
 
 **BDD**
 
-#Technologies used
+#***Technologies used***
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
